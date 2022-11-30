@@ -15,3 +15,9 @@ Source code of arduino project. MiniSumo for competition.
 - Jumpers (wires)
 - Protoboard
 - Wheels (x2)
+
+# References used
+- Interruptions: https://www.electronicwings.com/arduino/basic-functions-related-to-time-and-interrupts-in-arduino
+- Motor driver: https://www.luisllamas.es/arduino-motor-dc-tb6612fng/
+- https://learn.robolink.com/lesson/program-the-sumo-bot/
+- https://create.arduino.cc/projecthub/AhmedAzouz/how-to-make-arduino-sumo-robot-f44bd8
