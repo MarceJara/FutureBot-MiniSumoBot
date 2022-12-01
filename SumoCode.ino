@@ -23,7 +23,7 @@ enum direction
 
 // Headers
 void stop_after(int time_delay = 0);
-void set_motor_speed(int speed = 60);
+void set_motor_speed(int speed = 150);
 
 void setup()
 {
@@ -35,7 +35,7 @@ void setup()
   pinMode(BIN2, OUTPUT);
   pinMode(PWMA, OUTPUT);
   pinMode(PWMB, OUTPUT);
-  set_motor_speed();
+  set_motor_speed(200);
 
   // Configuration for ultrasonic port
   pinMode(Trig, OUTPUT);
@@ -82,7 +82,7 @@ void loop()
 void avoid_bounds(void)
 {
   rotate(CLOCKWISE);
-  stop_after(150);
+  stop_after(500);
   forward();
   stop_after(1000);
 }
@@ -104,7 +104,7 @@ void forward()
   digitalWrite(BIN1, LOW);
   digitalWrite(BIN2, HIGH);
 
-  set_motor_speed(80);
+  set_motor_speed(200);
 }
 
 void stop_after(int time_delay)
@@ -125,7 +125,7 @@ void rotate(direction dir)
   digitalWrite(BIN1, dir ? LOW : HIGH);
   digitalWrite(BIN2, dir ? HIGH : LOW);
 
-  set_motor_speed(50);
+  set_motor_speed(100);
 }
 
 void set_motor_speed(int speed)
