@@ -1,4 +1,4 @@
-const int AIN1 = 2;
+const int AIN1 = 12;//2;
 const int AIN2 = 3;
 const int BIN1 = 4;
 const int BIN2 = 5;
@@ -8,7 +8,7 @@ const int PWMB = 10;//8;
 const int Trig = 7;//9;
 const int Echo = 8;//10;
 const int LED = 11;
-const int IR_DO = 12;
+const int IR_DO = 2;//12;
 const int IR_AO = A1;
 
 float time;
@@ -25,9 +25,9 @@ enum direction
 void stop_after(int time_delay = 0);
 void set_motor_speed(int speed = 150);
 
+
 void setup()
 {
-  Serial.begin(9600);
   // Configuration for motor driver ports
   pinMode(AIN1, OUTPUT);
   pinMode(AIN2, OUTPUT);
@@ -35,7 +35,6 @@ void setup()
   pinMode(BIN2, OUTPUT);
   pinMode(PWMA, OUTPUT);
   pinMode(PWMB, OUTPUT);
-  set_motor_speed(200);
 
   // Configuration for ultrasonic port
   pinMode(Trig, OUTPUT);
@@ -54,9 +53,7 @@ void setup()
   delay(5000);
   digitalWrite(LED, LOW);
 
-  // Enable interruptions
-  interrupts();
-  attachInterrupt(digitalPinToInterrupt(IR_DO), avoid_bounds, LOW);
+  set_motor_speed(200);
 }
 
 void loop()
@@ -67,7 +64,7 @@ void loop()
   digitalWrite(Trig, LOW);
   time = pulseIn(Echo, HIGH);
   distance = time * 0.017175;
-
+  
   // Action logic
   rotate(CLOCKWISE);
   if (distance < 25)
@@ -77,14 +74,20 @@ void loop()
     forward();
     stop_after(200);
   }
+  
+  out_of_bounds = digitalRead(IR_DO);
+  if(out_of_bounds == 0) avoid_bounds();
+  
 }
 
 void avoid_bounds(void)
 {
-  rotate(CLOCKWISE);
-  stop_after(500);
+  digitalWrite(LED, HIGH);
+  rotate(COUNTERCLOCKWISE);
+  stop_after(900);
   forward();
-  stop_after(1000);
+  stop_after(800);
+  digitalWrite(LED, LOW);
 }
 
 void reverse()
