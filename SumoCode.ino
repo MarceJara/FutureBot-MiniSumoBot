@@ -28,6 +28,8 @@ void set_motor_speed(int speed = 150);
 
 void setup()
 {
+  Serial.begin(9600);
+  long int t1 = millis(); //[TEST]: start counting time passed.
   // Configuration for motor driver ports
   pinMode(AIN1, OUTPUT);
   pinMode(AIN2, OUTPUT);
@@ -47,12 +49,15 @@ void setup()
 
   digitalWrite(STBY, HIGH);
   digitalWrite(Trig, LOW);
-
+  
+  
+  
   // Mandatory initial delay
   digitalWrite(LED, HIGH);
   delay(5000);
   digitalWrite(LED, LOW);
-
+  long int t2 = millis(); //[TEST]: end counting time passed.
+  Serial.print(t2-t1);    //[TEST]: print time counted.
   set_motor_speed(200);
 }
 
