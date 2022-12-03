@@ -75,8 +75,8 @@ void loop()
     stop_after(200);
   }
   
-  out_of_bounds = digitalRead(IR_DO);
-  if(out_of_bounds == 0) avoid_bounds();
+  //out_of_bounds = digitalRead(IR_DO);
+  //if(out_of_bounds == 0) avoid_bounds();
   
 }
 
