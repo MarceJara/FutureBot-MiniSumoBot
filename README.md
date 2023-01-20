@@ -1,5 +1,6 @@
 # FutureBot-MiniSumoCode
 
+![alt text](https://github.com/MarceJara/FutureBot-MiniSumoCode/blob/main/images/robot-pic.jpg?raw=true)
 Source code of arduino project. MiniSumo for competition.
 
 # Materials
