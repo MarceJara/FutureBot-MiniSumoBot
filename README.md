@@ -1,5 +1,6 @@
 # FutureBot-MiniSumoCode
 
+![alt text](https://github.com/MarceJara/FutureBot-MiniSumoCode/blob/main/images/robot-pic.png?raw=true)
 Source code of arduino project. MiniSumo for competition.
 
 # Materials
@@ -21,3 +22,11 @@ Source code of arduino project. MiniSumo for competition.
 - Motor driver: https://www.luisllamas.es/arduino-motor-dc-tb6612fng/
 - https://learn.robolink.com/lesson/program-the-sumo-bot/
 - https://create.arduino.cc/projecthub/AhmedAzouz/how-to-make-arduino-sumo-robot-f44bd8
+- Time measurement: https://www.tutorialspoint.com/calculate-time-of-operation-in-arduino#:~:text=You%20can%20use%20the%20millis,started%20running%20the%20current%20program.
+
+# TO-DOs
+- Add a button to start mandatory countdown
+- Add more ultrasound sensor
+- Fix IR sensor functionality
+- Create a PCB capable of handling all sensors
+- Change power supply
