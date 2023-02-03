@@ -1,8 +1,9 @@
 ---
 layout: home
----
+#---
 
 # [FutureBot](https://marcejara.github.io/FutureBot-MiniSumoBot/)
+---
 ![SumoBot build](assets/robot-pic.png)
 
 FutureBot is a mini sumo robot made for teaching STEM and making it compete in tournaments. If you do this project, you will learn about robotics, programming, Arduino, electronics, and more. Also, you will be able to customize whatever you want.
