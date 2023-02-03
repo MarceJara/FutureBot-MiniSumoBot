@@ -6,7 +6,7 @@ layout: home
 ---
 # FutureBot-MiniSumoCode
 
-![alt text](_images\robot-pic.png)
+![SumoBot build](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/_images/robot-pic.png)
 
 Source code of arduino project. MiniSumo for competition.
 
