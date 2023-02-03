@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Building
-order: 1
 ---
 
 To build our bot we will need the following materials. In some cases we will be able to sustitute some of them but that wil depend on our budget and level of exepertise in order to handle those modifications.

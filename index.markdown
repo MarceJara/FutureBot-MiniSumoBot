@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 # [FutureBot](https://marcejara.github.io/FutureBot-MiniSumoBot/)
 ![SumoBot build](assets/robot-pic.png)
 
