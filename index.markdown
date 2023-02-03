@@ -8,20 +8,6 @@ layout: home
 
 FutureBot is a mini sumo robot made for teaching STEM and making it compete in tournaments. If you do this project, you will learn about robotics, programming, Arduino, electronics, and more. Also, you will be able to customize whatever you want.
 
-# Materials
-- Chasis 3D printed with PLA+
-- Ultrasonic Sensor - HC-SR04
-- Motor Driver - TB6612FNG
-- Arduino Nano
-- Infrared Sensor - TCRT5000
-- DC Motors (Yellow motor) (x2)
-- 4 slots battery case
-- AAA Batteries (x4)
-- Switch
-- Jumpers (wires)
-- Protoboard
-- Wheels (x2)
-
 # References
 - [Basic-functions-related-to-time-and-interrupts-in-arduino](https://www.electronicwings.com/arduino/basic-functions-related-to-time-and-interrupts-in-arduino) 
 - [Arduino-motor-dc-tb6612fng](https://www.luisllamas.es/arduino-motor-dc-tb6612fng/)
