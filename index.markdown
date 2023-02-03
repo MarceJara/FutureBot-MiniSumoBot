@@ -7,7 +7,7 @@ layout: home
 
 ![SumoBot build](/_images/robot-pic.png)
 
-FutureBot is a mini sumo robot made for teaching STEM and for competitions. Doing this project will teach you about robotics, programming, arduino, electronics and much more. 
+FutureBot is a mini sumo robot made for teaching STEM and for competitions. Doing this project will teach you about robotics, programming, arduino, electronics and more. 
 
 # Materials
 - Chasis 3D printed with PLA+
