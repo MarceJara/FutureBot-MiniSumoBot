@@ -4,11 +4,10 @@
 
 layout: home
 ---
-# FutureBot-MiniSumoCode
 
-![SumoBot build](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/_images/robot-pic.png)
+![SumoBot build](/_images/robot-pic.png)
 
-Source code of arduino project. MiniSumo for competition.
+FutureBot is a mini sumo robot made for teaching STEM and for competitions. Doing this project will teach you about robotics, programming, arduino, electronics and much more. 
 
 # Materials
 - Chasis 3D printed with PLA+
