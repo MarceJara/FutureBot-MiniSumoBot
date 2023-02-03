@@ -1,11 +1,11 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#C:\Users\USER\Desktop\Proyectos\FutureBot-MiniSumoCode\assets\_images\robot-pic.png
 
 layout: home
 ---
-
-![SumoBot build](/_images/robot-pic.png?raw=true)
+![SumoBot build](assets/_images/robot-pic.png)
 
 FutureBot is a mini sumo robot made for teaching STEM and to making it compete in tournaments. Doing this project will teach you about robotics, programming, arduino, electronics and more. Also, you will be able to customize whatever you want.
 
