@@ -1,9 +1,9 @@
 title: FutureBot - A SumoBot for STEM
 email: marcelo.jara@pucp.edu.pe
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  FutureBot is a STEM project to learn and have fun. There is no minimum
+  age, so if you are 10 or 20 years old you still can learn and make it.
+  And do'nt forget that "The best way to ppredict the future is to make it."
 #baseurl: "FutureBot-MiniSumoBot" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MarceloFuture
