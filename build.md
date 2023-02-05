@@ -22,7 +22,7 @@ To build our bot we will need the following materials. In some cases we will be 
 1. Wheels (x2)
 
 ```stl
-solid Uranium STLWriter Sun 05 Feb 2023 16:30:08
+solid front_pale
 facet normal 0.0 0.0 0.0
   outer loop
     vertex -27.75 9.23293399810791 4.000001907348633
@@ -1199,5 +1199,5 @@ facet normal 0.0 0.0 0.0
     vertex 28.350000381469727 -8.735016822814941 4.000003814697266
   endloop
 endfacet
-endsolid Uranium STLWriter Sun 05 Feb 2023 16:30:08
+endsolid front_pale
 ```
