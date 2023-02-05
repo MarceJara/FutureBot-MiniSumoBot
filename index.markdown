@@ -1,8 +1,10 @@
 ---
 layout: home
-#---
-
 # [FutureBot](https://marcejara.github.io/FutureBot-MiniSumoBot/)
+"""
+TODOs:
+- Add a hiperlink to building and coding pages. 
+"""
 ---
 ![SumoBot build](assets/robot-pic.png)
 
