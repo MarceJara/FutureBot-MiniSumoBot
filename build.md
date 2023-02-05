@@ -22,11 +22,11 @@ To build our bot we will need the following materials. In some cases we will be 
 1. Chasis 3D printed with PLA+
 
 # 3D printed parts
-1.[front-pale](link)
-1.[front-ramp](link)
-1.[sumo-back-ceiling](link)
-1.[sumo-base](link)
-1.[sumo-front-ceiling](link)
-1.[sumo-side-left](link)
-1.[sumo-side-right](link)
-1.[ultrasonic-support](link)
+1. [front-pale](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/front_pale.stl)
+1. [front-ramp](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/front_ramp.stl)
+1. [sumo-back-ceiling](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/sumo_back_ceiling.stl)
+1. [sumo-base](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/sumo_base.stl)
+1. [sumo-front-ceiling](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/sumo_front_ceiling.stl)
+1. [sumo-side-left](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/sumo_side_left.stl)
+1. [sumo-side-right](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/sumo_side_right.stl)
+1. [ultrasonic-support](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/ultrasonic_support.stl)
