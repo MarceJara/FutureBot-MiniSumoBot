@@ -2,10 +2,11 @@
 layout: page
 title: Coding
 ---
+To control our robot and make it win, we will need to tell it so. In that case, we will need to program its movements and actions. Below, you will see the code to make the combat robot work.
 
-To build our bot we will need the following materials. In some cases we will be able to sustitute some of them but that wil depend on our budget and level of exepertise in order to handle those modifications.
 
-```arduino
+First, we need to define the variables and tools we will use to run our program.
+```c++
 const int AIN1 = 12;
 const int AIN2 = 3;
 const int BIN1 = 4;
@@ -24,7 +25,10 @@ enum direction{ CLOCKWISE, COUNTERCLOCKWISE };
 // Headers
 void stop_after(int time_delay = 0);
 void set_motor_speed(int speed = 150);
+```
 
+Then, we have to configure and set how the arduino should perform.
+```c++
 void setup(){
 // Configuration for motor driver ports
 pinMode(AIN1, OUTPUT);
@@ -50,7 +54,10 @@ digitalWrite(LED, LOW);
 set_motor_speed(200);
 
 }
+```
 
+Next, we will program the actions that the robot will execute when turn on.
+```c++
 void loop(){
 // Calculation of distance by ultrasonic sensor
 digitalWrite(Trig, HIGH);
@@ -69,7 +76,10 @@ forward();
 stop_after(200);
 }
 }
+```
 
+Finally, we have to define the functions that we used in loop to make it work.
+```c++
 void reverse(){
 digitalWrite(AIN1, HIGH);
 digitalWrite(AIN2, LOW);
