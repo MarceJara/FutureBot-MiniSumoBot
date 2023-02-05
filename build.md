@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Building
-"""
-TODOs:
-- Add more explanation in the connections process. 
-- Change the order of the wires to be more clean.
-- Make a walktrought of the building process with photos and a few sentences.
-"""
+
+#TODOs:
+#- Add more explanation in the connections process. 
+#- Change the order of the wires to be more clean.
+#- Make a walktrought of the building process with photos and a few #sentences.
+
 ---
 
 To build our bot we will need the following materials. In some cases we will be able to sustitute some of them but that wil depend on our budget and level of exepertise in order to handle those modifications.

@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Coding
-"""
-TODOs:
-- Explain more the code used.
-- Show the video of demostration.
-"""
+
+#TODOs:
+#- Explain more the code used.
+#- Show the video of demostration.
+
 ---
 To control our robot and make it win, we will need to tell it so. In that case, we will need to program its movements and actions. Below, you will see the code to make the combat robot work.
 
