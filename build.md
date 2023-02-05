@@ -6,6 +6,9 @@ title: Building
 To build our bot we will need the following materials. In some cases we will be able to sustitute some of them but that wil depend on our budget and level of exepertise in order to handle those modifications.
 
 # Electronics
+
+![SumoBot connections](assets/connections.png){: style="width: 600px;"}
+
 1. Arduino Nano
 1. Motor Driver - TB6612FNG
 1. Ultrasonic Sensor - HC-SR04
@@ -22,6 +25,9 @@ To build our bot we will need the following materials. In some cases we will be 
 1. Chasis 3D printed with PLA+
 
 # 3D printed parts
+
+![SumoBot build](assets/chasis_guide_parts.jpeg){: style="width: 400px;"}
+
 1. [front-pale](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/front_pale.stl)
 1. [front-ramp](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/front_ramp.stl)
 1. [sumo-back-ceiling](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/sumo_back_ceiling.stl)
@@ -30,3 +36,8 @@ To build our bot we will need the following materials. In some cases we will be 
 1. [sumo-side-left](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/sumo_side_left.stl)
 1. [sumo-side-right](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/sumo_side_right.stl)
 1. [ultrasonic-support](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/ultrasonic_support.stl)
+
+
+
+If you have a 3D printer keep reading this part.
+
