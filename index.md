@@ -3,7 +3,7 @@ layout: home
 # [FutureBot](https://marcejara.github.io/FutureBot-MiniSumoBot/)
 #TODOs:
 #- Add a hiperlink to building and coding pages. 
-
+#Theme: https://github.com/mmistakes/jekyll-theme-basically-basic
 ---
 ![SumoBot build](assets/robot-pic.png)
 
