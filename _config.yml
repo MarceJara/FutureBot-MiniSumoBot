@@ -10,6 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MarceloFuture
 github_username:  MarceJara
 
+# TODO: CREATE BRANCH FOR LOCALHOST VIEWING
 # Build settings
 #theme: minima
 #theme: jekyll-theme-basically-basic
