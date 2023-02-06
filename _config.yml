@@ -12,10 +12,8 @@ github_username:  MarceJara
 
 # Build settings
 #theme: minima
-#theme: just-the-docs
-#theme: jekyll-text-theme
-#remote_theme: pages-themes/minimal@v0.2.0
-theme: jekyll-theme-basically-basic
+#theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
  # - jekyll-remote-theme
