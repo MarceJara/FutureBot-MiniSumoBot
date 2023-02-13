@@ -18,16 +18,17 @@ To build our bot we will need the following materials. In some cases we will be 
 1. Arduino Nano
 1. Motor Driver - TB6612FNG
 1. Ultrasonic Sensor - HC-SR04
-1. Infrared Sensor - TCRT5000
-1. DC Motors (Yellow motor) (x2)
+1. DC Motors (Yellow motor) (x2) + Wheels (x2)
 1. 4 slots battery case
-1. AAA Batteries (x4)
+1. AA Batteries (x4)
 1. Switch
 1. Jumpers (wires)
 1. Protoboard
+1. Infrared Sensor - TCRT5000
 
 # Mechanics
-1. Wheels (x2)
+1. Wheels (x2) (normally when buying the yellow motors it includes wheels)
+1. Caster
 1. Chasis 3D printed with PLA+
 
 # 3D printed parts
@@ -45,5 +46,9 @@ To build our bot we will need the following materials. In some cases we will be 
 
 
 
-If you have a 3D printer keep reading this part.
+If you have a 3D printer keep reading this part. Otherwise, just send to print these pieces with aa infill around 20-25%. 
+
+TODOs:
+- Explain the building process step by step.
+- Make a recommendations part.
 
