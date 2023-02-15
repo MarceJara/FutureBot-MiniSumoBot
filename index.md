@@ -10,9 +10,9 @@ layout: home
 
 FutureBot is a mini sumo robot made for teaching STEM and making it compete in tournaments. If you do this project, you will learn about robotics, programming, Arduino, electronics, and more. Also, you will be able to customize whatever you want but first we need to learn the basics.
 
-## [Build your robot]({ build.md })
-## [Build your robot]({{ site.baseurl }}{% link build.md %})
-## [Program your robot]({% link program.md %})
+## [Build your robot]({% build.md %})
+## [Build your robot]({{% link site.baseurl %}}{% link build.md %})
+## [Program your robot]({ link program.md })
 
 
 # References
