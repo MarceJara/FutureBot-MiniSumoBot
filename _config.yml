@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   minimum age, so whether you are 10 or 20 years old, you can 
   get to work and create your robot. Finally, don't forget that 
   "The best way to predict the future is to make it."  
-#baseurl: "FutureBot-MiniSumoBot" # the subpath of your site, e.g. /blog
+baseurl: "FutureBot-MiniSumoBot" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MarceloFuture
 github_username:  MarceJara
