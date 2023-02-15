@@ -11,7 +11,7 @@ FutureBot is a mini sumo robot made for teaching STEM and making it compete in t
 
 ## [Build your robot]({% link build.md%})
 ## [Program your robot]({% link program.md %})
-## [Make it artificial intelligent]({% link neural-net.md%})
+<!---## [Make it artificial intelligent]({% link neural-net.md%})-->
 
 # References
 - [Basic-functions-related-to-time-and-interrupts-in-arduino](https://www.electronicwings.com/arduino/basic-functions-related-to-time-and-interrupts-in-arduino) 
