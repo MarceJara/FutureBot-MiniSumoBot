@@ -4,6 +4,7 @@ layout: home
 #TODOs:
 #- Add a hiperlink to building and coding pages. 
 #Theme: https://github.com/mmistakes/jekyll-theme-basically-basic
+# [Make it artificial intelligent]({% link neural-net.md%})
 ---
 ![SumoBot build](assets/robot-pic.png)
 
@@ -11,7 +12,7 @@ FutureBot is a mini sumo robot made for teaching STEM and making it compete in t
 
 ## [Build your robot]({% link build.md%})
 ## [Program your robot]({% link program.md %})
-<!---## [Make it artificial intelligent]({% link neural-net.md%})-->
+
 
 # References
 - [Basic-functions-related-to-time-and-interrupts-in-arduino](https://www.electronicwings.com/arduino/basic-functions-related-to-time-and-interrupts-in-arduino) 
