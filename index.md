@@ -9,6 +9,10 @@ layout: home
 
 FutureBot is a mini sumo robot made for teaching STEM and making it compete in tournaments. If you do this project, you will learn about robotics, programming, Arduino, electronics, and more. Also, you will be able to customize whatever you want.
 
+## [Build your robot]({% link build.md%})
+## [Program your robot]({% link program.md %})
+## [Make it artificial intelligent]({% link neural-net.md%})
+
 # References
 - [Basic-functions-related-to-time-and-interrupts-in-arduino](https://www.electronicwings.com/arduino/basic-functions-related-to-time-and-interrupts-in-arduino) 
 - [Arduino-motor-dc-tb6612fng](https://www.luisllamas.es/arduino-motor-dc-tb6612fng/)
