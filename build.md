@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Building your robot
+title: Build
 
 #TODOs:
 #- Add more explanation in the connections process. 
@@ -37,7 +37,7 @@ You will need two wheels that usually come in the same package of your yellow mo
 
 # 3D printed parts
 
-In the next image, you can see the assembled chasis. Both part 1 and part 2 are variations of the front part so you are free to use whatever you want. Here, we use the 1. front-pale design since i like it over the ramp design. I join parts 1,3,4,5,6 and 7 melting the unions with my soldering iron. I just let part 3. sumo-back-ceiling not melted since you need to be able to take it apart to insert batteries and cables easily.
+In the next image, you can see the assembled chasis. Both part 1 and part 2 are variations of the front part so you are free to use whatever you want. Here, we use part #1 (front-pale) since I like it over the ramp design. I joined parts 1, 3, 4, 5, 6 and 7 melting the unions with my soldering iron. I just let part 3. sumo-back-ceiling not melted since you need to be able to take it apart to insert batteries and cables easily.
 
 ![SumoBot build](assets/chasis_guide_parts.jpeg){: style="width: 400px;"}
 
