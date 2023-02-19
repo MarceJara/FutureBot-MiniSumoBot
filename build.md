@@ -50,6 +50,9 @@ In the next image, you can see the assembled chasis. Both part 1 and part 2 are 
 1. [sumo-side-right](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/sumo_side_right.stl)
 1. [ultrasonic-support](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/ultrasonic_support.stl)
 
+Motors and ultrasound sensor are pretty much standard in size. When you will find issues is in the switch size. If you now a bit of OpenSCAD you can actually download the following file which is the design file of part 3. sumo-back-ceiling. Then, you will be able to modify the width and heigth given the switch you have bought. 
+
+- [sumo-back-ceiling-editable](https://github.com/MarceJara/FutureBot-MiniSumoBot/blob/gh-pages/assets/3d_models/sumo-back-ceiling-editable.scad)
 
 TODOs:
 - Explain the building process step by step.
