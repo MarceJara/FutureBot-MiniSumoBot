@@ -20,6 +20,7 @@ FutureBot is a mini sumo robot made for teaching STEM and making it compete in t
 - [Program-the-sumo-bot](https://learn.robolink.com/lesson/program-the-sumo-bot/)
 - [How-to-make-arduino-sumo-robot](https://create.arduino.cc/projecthub/AhmedAzouz/how-to-make-arduino-sumo-robot-f44bd8)
 - [Calculate-time-of-operation-in-arduino](https://www.tutorialspoint.com/calculate-time-of-operation-in-arduino)
+- [current-drop](https://forum.arduino.cc/t/arduino-resetting-when-running-2wd-platform-why/59122/2)
 
 # To-Dos
 
